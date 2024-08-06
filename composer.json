@@ -19,5 +19,7 @@
     ],
     "require": {
         "psr/http-server-middleware": "^1.0"
-    }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
